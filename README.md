@@ -1,8 +1,7 @@
-# FUTUTE_CS_03
-API Security Risk Analysis Task 3 – Future Interns
+## API Security Risk Analysis 
 
 ## Overview
-**FUTUTE_CS_03** is a repository containing the **API Security Risk Analysis Task 3** conducted as part of the **Future Interns** program. This project focuses on identifying, analyzing, and documenting potential security risks in API endpoints, along with remediation recommendations.
+This project focuses on identifying, analyzing, and documenting potential security risks in API endpoints, along with remediation recommendations.
 
 ## Contents
 - **API Security Risk Analysis REPORT.pdf** – Comprehensive report detailing findings, risk severity, root causes, and recommended remediation steps.
